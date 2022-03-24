@@ -50,7 +50,7 @@ Since there are so many new .eth websites (yay!) We think that initial voting sh
 * Candidates List will be announced in a few places: 
     1. [Esteroids](https://esteroids.eth.limo) dedicated contest page.
     2. [Snapshot](https://snapshot.org/#/) dedicated space.
-    3. ENS Discourse thread post and ENS discord (#general channel).
+    3. ENS Discourse [thread post](https://discuss.ens.domains/t/eth-websites-subgroup-q1-q2-2022/11441) and ENS discord (#general channel).
     4. Discord dedicated channel Esteroids (#eth-website-subgroup).
 
 
@@ -61,7 +61,8 @@ The 4 final nominated websites will be published on a twitter poll on Esteroids 
 
 ## Which .eth websites can participate?
 The competition is for newly created .eth websites in the previous month.
-Since there are so many new .eth websites created (more than 250),we will create an initial "Candidate list" for voting.
+Since there are so many new .eth websites created (more than 250),we will create an initial "Candidate list" for voting, 
+the list will only include:
 
 
 1. .eth decentralized websites not redirecting or pulling most of the data from none decentralized sources.
