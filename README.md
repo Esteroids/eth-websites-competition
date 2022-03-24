@@ -24,9 +24,9 @@ Our mission is to grow the .eth website community and promote awareness around .
 
 ## Competition reward
 Except for fame and a place in the history book, winner will also get:
-1. 100 $ENS awarded by ENS Ecosystem Working group
-2. Promotion on [esteroids.eth](https://esteroids.eth.limo) website and social media until the end of the month
-3. Declared publicly as the winner on [twitter](https://twitter.com/e_steroids), discord and matching ENS discourse post
+1. 100 $ENS awarded by ENS Ecosystem Working group.
+2. Promotion on [esteroids.eth](https://esteroids.eth.limo) website and social media until the end of the month.
+3. Declared publicly as the winner on [twitter](https://twitter.com/e_steroids), discord and matching ENS discourse post.
  
     
 <br />
@@ -49,13 +49,13 @@ Since there are so many new .eth websites (yay!) We think that initial voting sh
 * Voting will be done via [snapshot.org](https://snapshot.org/#/) space, each .eth name owner will be able to vote once and each address will be able to vote only once (even if same address owns multiple names)
 * Candidates List will be announced in a few places: 
     1. [Esteroids](https://esteroids.eth.limo) dedicated contest page.
-    2. [Snapshot](https://snapshot.org/#/) dedicated space 
+    2. [Snapshot](https://snapshot.org/#/) dedicated space.
     3. ENS Discourse thread post and ENS discord (#general channel).
     4. Discord dedicated channel Esteroids (#eth-website-subgroup).
 
 
 ## Final nominees voting 
-The 4 final nominated websites will be published on a twitter poll on Esteroids page to allow bigger audience participation
+The 4 final nominated websites will be published on a twitter poll on Esteroids page to allow bigger audience participation.
 
 
 
@@ -64,9 +64,9 @@ The competition is for newly created .eth websites in the previous month.
 Since there are so many new .eth websites created (more than 250),we will create an initial "Candidate list" for voting.
 
 
-1. .eth decentralized websites not redirecting or pulling most of the data from none decentralized sources
-2. Newly created (by name and content)
-3. Are not empty shell or "hello world" websites
+1. .eth decentralized websites not redirecting or pulling most of the data from none decentralized sources.
+2. Newly created (by name and content).
+3. Are not empty shell or "hello world" websites.
 
 
 ## Feedback
