@@ -46,7 +46,7 @@ The competition will take 1 week in total
 ## Candidates list voting
 Since there are so many new .eth websites (yay!) We think that initial voting should be from a wide list of newly created .eth websites in the previous month.
 
-* Voting will be done via snapshot.org space, each .eth name owner will be able to vote once and each address will be able to vote only once (even if same address owns multiple names)
+* Voting will be done via [snapshot.org](https://snapshot.org/#/) space, each .eth name owner will be able to vote once and each address will be able to vote only once (even if same address owns multiple names)
 * Candidates List will be announced in a few places: 
     1. [Esteroids](https://esteroids.eth.limo) dedicated contest page.
     2. [Snapshot](https://snapshot.org/#/) dedicated space 
