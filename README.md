@@ -5,13 +5,13 @@
 <br />
 
 
-- [**What is .eth websites competition?**](#What-is-eth-websites-competition)
-- [**Competition reward**](#Competition-reward)
-- [**Timeline**](#Timeline)
-- [**Candidates list voting**](#Candidates-list-voting)
-- [**Final nominees voting**](#Final-nominees-voting)
-- [**Which .eth websites can participate?**](#Which-eth-websites-can-participate)
-- [**Feedback welcome**](#Feedback-welcome)
+* [What is .eth websites competition?](#what-is-eth-websites-competition)
+* [Competition reward](#competition-reward)
+* [Timeline](#timeline)
+* [Candidates list voting](#candidates-list-voting)
+* [Final nominees voting](#final-nominees-voting)
+* [Which .eth websites can participate?](#which-eth-websites-can-participate)
+* [Feedback](#feedback)
 
 <br />
 <br />
@@ -36,7 +36,7 @@ Except for fame and a place in the history book, winner will also get:
 The competition will take 1 week in total
 
 | Timeline | Duration  | 
-|---|---|---|---|---|
+|---|---|
 | Candidates list voting | 5 days   | 
 | Final nominees voting  | 2 days  |  
 | Winner announcement  |   |  
@@ -48,10 +48,10 @@ Since there are so many new .eth websites (yay!) We think that initial voting sh
 
 * Voting will be done via snapshot.org space, each .eth name owner will be able to vote once and each address will be able to vote only once (even if same address owns multiple names)
 * Candidates List will be announced in a few places: 
-a. [Esteroids](https://esteroids.eth.limo) dedicated contest page.
-b. [Snapshot](https://snapshot.org/#/) dedicated space 
-c. ENS Discourse thread post and ENS discord (#general channel).
-d. Discord dedicated channel Esteroids (#eth-website-subgroup).
+    1. [Esteroids](https://esteroids.eth.limo) dedicated contest page.
+    2. [Snapshot](https://snapshot.org/#/) dedicated space 
+    3. ENS Discourse thread post and ENS discord (#general channel).
+    4. Discord dedicated channel Esteroids (#eth-website-subgroup).
 
 
 ## Final nominees voting 
